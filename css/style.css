@@ -1,0 +1,17 @@
+body h1{
+    color:blue;
+}
+body .bleu{
+    color:blue;
+}
+body .rouge {
+    color:red;
+}
+body #img_bleu{
+    width: 100px;
+    height: 100px;
+}
+body .pouce_rouge{
+    width: 100px;
+    height: 100px;
+}
